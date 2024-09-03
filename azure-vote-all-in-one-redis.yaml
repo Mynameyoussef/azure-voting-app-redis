@@ -66,7 +66,7 @@ spec:
           limits:
             cpu: 500m
         env:
-        - name: REDIS
+        - name: REDIS-youssef
           value: "azure-vote-back"
 ---
 apiVersion: v1
